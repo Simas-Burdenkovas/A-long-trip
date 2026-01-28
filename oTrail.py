@@ -69,25 +69,25 @@ Moon = -2
 Coffe -1
 
 #Cigs
-Z-Gold = -1
-Z-Red = -1
-P-Royal_blue = -1
-Unlcky-Strike = -1
-B-Spirit = -1
-Royal_M-Cigar = -2
+Z_Gold = -1
+Z_Red = -1
+P_Royal_blue = -1
+Unlcky_Strike = -1
+B_Spirit = -1
+Royal_M_Cigar = -2
 
 #Foods
 Burger = -1
 Kebab = -1
-Blocky-C = -2
-Boat-S = -2
+Blocky_C = -2
+Boat_S = -2
 Ramen = -1
 Gum -1
 Tabbaco = -1
 Snus = -1
 Pickers = -1
-Pays-C = -1
-Babbel-C = -1
+Pays_C = -1
+Babbel_C = -1
 Hotdawg = -1
 Baloney = -1
 HotSchlong = -2
@@ -227,4 +227,5 @@ driving_anim()
 
 
 print("marius kakalius")
+
 
